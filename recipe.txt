@@ -1,2 +1,2 @@
-ingredients: flour, sugar
+Ingredients: flour, sugar, salt
 add eggs
